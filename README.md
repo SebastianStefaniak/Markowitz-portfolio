@@ -1,4 +1,4 @@
-# Efficient Frontier Simulation (Python)
+# Efficient Frontier Simulation
 
 This project demonstrates random portfolio simulations using the Monte Carlo method and visualizations of the efficient frontier based on actual historical market data. 
 
