@@ -6,6 +6,11 @@ The simulation calculates the following for each portfolio:
 - Expected annual rate of return
 - Risk (annual standard deviation)
 - Sharpe ratio
-
+## 📊 Results
+<img width="1000" height="681" alt="image" src="https://github.com/user-attachments/assets/467b42fa-71f4-46ec-9b32-002adc0d37b3" />
+Each point represents a randomly weighted portfolio of AAPL, MSFT, SPY, GLD, and BTC-USD (500 simulations), plotted by risk (volatility) against expected annual return and colored by Sharpe ratio. The portfolio with the highest Sharpe ratio (highlighted in red) sits toward the lower-risk end of the simulated range rather than at the highest absolute return 
+- **Risk:** ~14.5%
+- **Expected annual return:** ~12.5%
+- **Sharpe Ratio:** highest among all 500 simulated portfolios
 
 The goal of the project is to present a set of efficient portfolios offering the highest rate of return at a given level of risk and to select the one that offers the highest Sharpe ratio.
